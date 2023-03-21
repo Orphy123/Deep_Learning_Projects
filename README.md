@@ -1,1 +1,1 @@
-# AIT Deep Learning ASSESSMENT 1
+# AIT Deep Learning
